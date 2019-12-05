@@ -23,7 +23,7 @@
       "product-name", "product-price", "buy-button"
     ],
     "props": {
-      "verticalAlign": "center",
+      "verticalAlign": "middle",
       "preventVerticalStretch": true,
       "showSavings": true,
       "showListPrice": true
