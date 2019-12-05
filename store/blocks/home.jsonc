@@ -6,8 +6,8 @@
   },
   "rich-text": {
     "props": {
-      "text": "*Hello, World 3!*",
-      "textPosition": "RIGHT"
+      "text": "*SYNAPCOM 4!*",
+      "textPosition": "CENTER"
     }
   }
 }
